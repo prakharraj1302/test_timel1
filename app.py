@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_timeline import st_timeline
+from sttime import st_timeline
 
 st.set_page_config(layout="wide")
 
